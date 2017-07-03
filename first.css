@@ -1,0 +1,24 @@
+tbody tr:nth-child(odd) td{
+           background:#99ff99;
+}
+tbody tr:nth-child(even) td{
+            background:#ffccff;
+}
+.outer-content
+{
+  padding: 20px;
+  background-color: #ffccff;
+  width: 75%;
+  height: 15px;
+}
+.inner-content
+{
+  
+  margin: 0 auto;
+  width: 75%;
+  height: auto;
+  background-color: #6699ff;
+  border-radius: 3px;
+  text-align: center
+
+}
